@@ -1,8 +1,6 @@
 streamlit 
-sys
-os
-subprocess
-pandas
-numpy
-plotly
+pandas 
+numpy 
+plotly 
+folium 
 streamlit-folium
