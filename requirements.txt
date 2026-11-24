@@ -1,0 +1,8 @@
+streamlit 
+sys
+os
+subprocess
+pandas
+numpy
+plotly
+streamlit-folium

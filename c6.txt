@@ -1,0 +1,329 @@
+[PHẦN 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN]
+Câu 1: Tầng khí quyển nằm sát bề mặt Trái Đất, nơi diễn ra hầu hết các hiện tượng khí tượng như mây, mưa, sấm chớp là tầng nào?
+A. Tầng bình lưu.
+B. Tầng đối lưu.
+C. Tầng giữa.
+D. Tầng khuếch tán.
+Đáp án: B
+Giải thích: Tầng đối lưu nằm sát bề mặt đất, tập trung khoảng 80% khối lượng không khí và hầu hết hơi nước, sinh ra mọi hiện tượng thời tiết.
+---
+Câu 2: Thành phần nào chiếm tỉ lệ thể tích lớn nhất trong không khí ở tầng đối lưu?
+A. O-xy (20,9%).
+B. Khí các-bô-nic.
+C. Ni-tơ (78,1%).
+D. Hơi nước và tro bụi.
+Đáp án: C
+Giải thích: Khí Ni-tơ chiếm tỉ lệ lớn nhất (78,1%), tiếp theo là O-xy (20,9%), các khí khác chỉ chiếm 1%.
+---
+Câu 3: Ranh giới tiếp xúc giữa hai khối khí có nguồn gốc và tính chất vật lí khác nhau được gọi là gì?
+A. Dải hội tụ nhiệt đới.
+B. Frông khí quyển.
+C. Vành đai khí áp.
+D. Đường đẳng nhiệt.
+Đáp án: B
+Giải thích: Frông là mặt tiếp xúc giữa hai khối khí có nguồn gốc, nhiệt độ và độ ẩm khác biệt nhau.
+---
+Câu 4: Đi từ Xích đạo về hai cực, nhiệt độ trung bình năm của không khí biến thiên như thế nào?
+A. Tăng dần đều.
+B. Giảm dần đều.
+C. Không thay đổi.
+D. Tăng ở chí tuyến rồi giảm dần.
+Đáp án: B
+Giải thích: Do góc nhập xạ của tia sáng Mặt Trời giảm dần từ Xích đạo về hai cực nên nhiệt độ trung bình năm giảm dần.
+---
+Câu 5: Càng lên cao trong tầng đối lưu, khí áp biến đổi như thế nào?
+A. Càng tăng do không khí đặc lại.
+B. Càng giảm do không khí loãng, sức nén nhỏ.
+C. Giữ nguyên không đổi.
+D. Tăng giảm tùy theo mùa.
+Đáp án: B
+Giải thích: Càng lên cao không khí càng loãng, lực hấp dẫn và sức nén của các lớp khí quyển bên trên giảm dần nên khí áp giảm.
+---
+Câu 6: Trên bề mặt Trái Đất, các đai khí áp phân bố như thế nào từ Xích đạo về hai cực?
+A. Toàn bộ là các đai áp thấp.
+B. Toàn bộ là các đai áp cao.
+C. Xen kẽ và đối xứng qua đai áp thấp Xích đạo.
+D. Phân bố ngẫu nhiên không có quy luật.
+Đáp án: C
+Giải thích: Các đai áp cao và áp thấp phân bố xen kẽ và đối xứng nhau qua đai áp thấp Xích đạo.
+---
+Câu 7: Gió Mậu dịch (Tín phong) là loại gió thổi quanh năm từ khu vực nào về khu vực nào?
+A. Từ áp cao cực về áp thấp ôn đới.
+B. Từ áp cao cận chí tuyến về áp thấp Xích đạo.
+C. Từ áp cao cận chí tuyến về áp thấp ôn đới.
+D. Từ đại dương thổi vào lục địa.
+Đáp án: B
+Giải thích: Gió Mậu dịch thổi đều đặn quanh năm từ các đai áp cao cận chí tuyến về đai áp thấp Xích đạo.
+---
+Câu 8: Loại gió thổi từ khu vực áp cao cận chí tuyến về áp thấp ôn đới được gọi là gì?
+A. Gió Đông cực.
+B. Gió Mậu dịch.
+C. Gió Tây ôn đới.
+D. Gió đất, gió biển.
+Đáp án: C
+Giải thích: Gió Tây ôn đới thổi từ đai áp cao cận chí tuyến về đai áp thấp ôn đới ở cả hai bán cầu.
+---
+Câu 9: Ở bán cầu Bắc, dưới tác động của lực Coriolis, hướng thổi của gió Mậu dịch là hướng nào?
+A. Đông Bắc.
+B. Tây Nam.
+C. Tây Bắc.
+D. Đông Nam.
+Đáp án: A
+Giải thích: Lực Coriolis làm lệch hướng chuyển động sang bên phải ở Bán cầu Bắc, biến gió thổi từ chí tuyến về Xích đạo thành hướng Đông Bắc.
+---
+Câu 10: Khu vực nào sau đây trên Trái Đất có lượng mưa trung bình năm lớn nhất?
+A. Vùng cận chí tuyến.
+B. Vùng cực và cận cực.
+C. Vùng Xích đạo.
+D. Vùng sâu trong nội địa ôn đới.
+Đáp án: C
+Giải thích: Vùng Xích đạo có diện tích đại dương lớn, nhiệt độ cao, áp thấp hút gió và đối lưu không khí mạnh nên mưa nhiều nhất thế giới.
+---
+Câu 11: Trái Đất được phân chia thành bao nhiêu đới khí hậu chính từ cực Bắc đến cực Nam?
+A. 5 đới khí hậu.
+B. 6 đới khí hậu.
+C. 7 đới khí hậu.
+D. 9 đới khí hậu.
+Đáp án: C
+Giải thích: Trái Đất có 7 đới khí hậu chính phân bố đối xứng qua đới khí hậu xích đạo.
+---
+Câu 12: Lãnh thổ Việt Nam nằm hoàn toàn trong đới khí hậu nào sau đây?
+A. Đới khí hậu ôn đới.
+B. Đới khí hậu cận nhiệt đới.
+C. Đới khí hậu nhiệt đới.
+D. Đới khí hậu xích đạo.
+Đáp án: C
+Giải thích: Việt Nam nằm hoàn toàn trong vùng nội chí tuyến Bắc bán cầu, thuộc đới khí hậu nhiệt đới gió mùa.
+---
+Câu 13: Tại sao càng đi về phía hai cực, biên độ nhiệt độ năm của không khí lại càng tăng mạnh?
+A. Do góc chiếu sáng của tia sáng Mặt Trời và độ dài ngày đêm có sự chênh lệch lớn giữa các mùa.
+B. Do bề mặt lục địa ở hai cực rộng hơn nhiều so với đại dương.
+C. Do ảnh hưởng của các dòng biển nóng chảy về cực.
+D. Do tầng ô-dôn ở hai cực dày hơn vùng Xích đạo.
+Đáp án: A
+Giải thích: Ở vĩ độ cao gần cực, chênh lệch góc nhập xạ và độ dài ngày đêm giữa mùa hạ và mùa đông rất lớn dẫn đến biên độ nhiệt năm cao.
+---
+Câu 14: Cùng nằm trên một vĩ độ, bờ đông của các lục địa ở đới ôn hòa thường có khí hậu ẩm và ấm hơn bờ tây vào mùa hạ chủ yếu do yếu tố nào?
+A. Ảnh hưởng của gió Tây ôn đới thổi từ biển vào.
+B. Ảnh hưởng của các dòng biển nóng chảy ven bờ.
+C. Bờ đông có địa hình đón gió cao hơn.
+D. Bờ đông gần các trung tâm áp thấp hơn.
+Đáp án: B
+Giải thích: Các dòng biển nóng ven bờ đông làm tăng nhiệt độ và độ ẩm của các khối khí di chuyển vào đất liền.
+---
+Câu 15: Nguyên nhân chủ yếu nào dẫn đến sự hình thành đai áp thấp ở vùng Xích đạo?
+A. Do Trái Đất tự quay làm dồn không khí về hai cực (nguyên nhân động lực).
+B. Do nhiệt độ cao quanh năm, không khí dãn nở bốc lên cao (nguyên nhân nhiệt lực).
+C. Do bề mặt biển và đại dương chiếm phần lớn diện tích.
+D. Do chịu ảnh hưởng của lực ly tâm cực đại.
+Đáp án: B
+Giải thích: Vùng Xích đạo có góc chiếu lớn, nhận nhiều nhiệt quanh năm, không khí bị đốt nóng nở ra bốc lên cao tạo thành đai áp thấp nhiệt lực.
+---
+Câu 16: Gió mùa là loại gió có đặc điểm nổi bật nào sau đây?
+A. Thổi liên tục một hướng suốt ngày đêm theo chu kì ngày đêm.
+B. Thổi theo mùa, hướng gió ở hai mùa ngược chiều hoặc gần như ngược chiều nhau.
+C. Chỉ hoạt động ở các vùng núi cao do sự chênh lệch địa hình.
+D. Luôn mang lại thời tiết khô nóng bất kể hướng thổi.
+Đáp án: B
+Giải thích: Gió mùa đổi hướng theo mùa, hướng gió mùa đông và mùa hạ thường ngược chiều nhau 180 độ.
+---
+Câu 17: Nguyên nhân cơ bản nhất sinh ra gió mùa ở khu vực Nam Á và Đông Nam Á là do đâu?
+A. Lực Coriolis làm bẻ hướng gió Mậu dịch qua đường Xích đạo.
+B. Sự chênh lệch nhiệt độ và khí áp theo mùa giữa lục địa Á – Âu rộng lớn với các đại dương tiếp giáp.
+C. Sự di chuyển của dải hội tụ nhiệt đới lên phía bắc vào mùa hạ.
+D. Tác động chắn gió của dãy núi Hi-ma-lay-a.
+Đáp án: B
+Giải thích: Sự hấp thụ và tỏa nhiệt không đều giữa lục địa Á - Âu khổng lồ và Thái Bình Dương / Ấn Độ Dương tạo ra các trung tâm áp thay đổi theo mùa.
+---
+Câu 18: Khu vực nằm dưới sự ngự trị của các khối khí áp cao cận chí tuyến thường có lượng mưa rất ít vì nguyên nhân nào?
+A. Không khí ở đây luôn bốc lên cao làm ngưng tụ hơi ẩm.
+B. Chỉ có luồng không khí từ trên cao nén hạ xuống, nhiệt độ tăng làm hơi nước không ngưng tụ được.
+C. Xung quanh toàn là các dòng biển nóng chảy qua.
+D. Thường xuyên xuất hiện frông lạnh hoạt động mạnh.
+Đáp án: B
+Giải thích: Ở áp cao cận chí tuyến, không khí từ trên cao giáng xuống bị nén đoạn nhiệt nóng lên, làm độ ẩm tương đối giảm, không thể tạo mây mưa.
+---
+Câu 19: Khi một khối khí ẩm di chuyển vượt qua một dãy núi cao, sườn đón gió thường có đặc điểm thời tiết như thế nào so với sườn khuất gió?
+A. Mưa nhiều, nhiệt độ giảm dần theo độ cao; sườn khuất gió khô nóng.
+B. Khô ráo, ít mưa; sườn khuất gió mưa rất lớn.
+C. Cả hai sườn đều có lượng mưa và độ ẩm tương đương nhau.
+D. Mưa tập trung ở chân núi, đỉnh núi hoàn toàn không có mưa.
+Đáp án: A
+Giải thích: Sườn đón gió đẩy không khí lên cao, ngưng kết gây mưa nhiều; khi sang sườn khuất gió, không khí đã trút hết ẩm hạ xuống tạo gió phơn khô nóng.
+---
+Câu 20: Dải hội tụ nhiệt đới khác với frông ở đặc điểm nào sau đây?
+A. Frông chỉ hình thành giữa hai khối khí nóng, còn dải hội tụ giữa hai khối khí lạnh.
+B. Dải hội tụ nhiệt đới hình thành giữa hai khối khí đều có tính chất nóng ẩm (thường là gió Tín phong hai bán cầu).
+C. Frông chỉ xuất hiện ở khu vực nội chí tuyến.
+D. Dải hội tụ nhiệt đới mang lại thời tiết quang đãng, không có mưa.
+Đáp án: B
+Giải thích: Frông là nơi tiếp xúc giữa hai khối khí khác biệt hẳn về nhiệt độ, còn dải hội tụ là sự gặp gỡ của các khối khí nhiệt đới cùng nóng ẩm.
+---
+Câu 21: Kiểu khí hậu ôn đới hải dương (trạm Va-len-ti-a) có đặc điểm nổi bật nào sau đây về tiến trình nhiệt độ và lượng mưa?
+A. Mùa đông rất lạnh giá (< -10°C), mùa hạ nóng, mưa ít vào mùa đông.
+B. Nhiệt độ trung bình năm cao trên 25°C, biên độ nhiệt lớn, mưa phân hóa mùa rõ rệt.
+C. Mùa hạ mát mẻ, mùa đông ấm áp (tháng lạnh nhất > 0°C), biên độ nhiệt nhỏ, mưa nhiều và phân bố đều quanh năm.
+D. Mùa hạ khô nóng gay gắt, mưa chỉ tập trung vào mùa thu đông.
+Đáp án: C
+Giải thích: Nhờ biển và gió Tây ôn đới điều hòa, khí hậu ôn đới hải dương có mùa đông ấm, mùa hạ mát, biên độ nhiệt thấp và mưa quanh năm.
+---
+Câu 22: So với kiểu khí hậu ôn đới hải dương cùng vĩ độ, kiểu khí hậu ôn đới lục địa (trạm U-pha) có đặc trưng nào sau đây?
+A. Mùa đông lạnh sâu dưới 0°C, biên độ nhiệt năm rất lớn, lượng mưa ít hơn và tập trung vào mùa hạ.
+B. Lượng mưa trung bình năm lớn hơn do ở sâu trong lục địa.
+C. Biên độ nhiệt năm nhỏ hơn do nhận được bức xạ mặt trời đều đặn.
+D. Mùa đông ấm áp hơn nhờ các khối khí từ cực thổi về.
+Đáp án: A
+Giải thích: Khí hậu ôn đới lục địa ở sâu trong nội địa nên mùa đông rất rét, mùa hạ tương đối nóng, biên độ nhiệt lớn và lượng mưa ít.
+---
+Câu 23: Hiện tượng gió phơn Tây Nam khô nóng hoạt động mạnh ở vùng Bắc Trung Bộ nước ta vào đầu mùa hạ là do khối khí ẩm từ vịnh Ben-gan vượt qua dãy núi nào?
+A. Dãy Hoàng Liên Sơn.
+B. Dãy Bạch Mã.
+C. Dãy Trường Sơn Bắc.
+D. Dãy Đông Triều.
+Đáp án: C
+Giải thích: Gió mùa Tây Nam vượt qua dãy Trường Sơn Bắc (đón gió ở sườn Tây Lào) rồi tràn xuống sườn Đông ven biển miền Trung gây hiện tượng gió Lào khô nóng.
+---
+Câu 24: Một khối khí ẩm có nhiệt độ tại chân núi sườn đón gió là 28°C. Khối khí bốc lên cao và vượt qua đỉnh núi cao 2.000 m (giả sử quá trình đoạn nhiệt ẩm làm nhiệt độ giảm 0,6°C/100 m). Nhiệt độ của khối khí tại đỉnh núi là bao nhiêu?
+A. 14°C.
+B. 16°C.
+C. 18°C.
+D. 12°C.
+Đáp án: B
+Giải thích: Độ giảm nhiệt độ khi lên cao 2.000m là: (2.000 / 100) * 0,6 = 12°C. Nhiệt độ tại đỉnh núi = 28 - 12 = 16°C.
+---
+Câu 25: Sau khi khối khí ở Câu 24 vượt qua đỉnh núi (2.000 m) với nhiệt độ 16°C và trườn xuống chân núi sườn khuất gió (giảm ẩm, nén đoạn nhiệt khô tăng 1,0°C/100 m), nhiệt độ tại chân núi sườn khuất gió đo được là bao nhiêu?
+A. 30°C.
+B. 32°C.
+C. 36°C.
+D. 38°C.
+Đáp án: C
+Giải thích: Độ tăng nhiệt khi xuống dốc 2.000m là: (2.000 / 100) * 1,0 = 20°C. Nhiệt độ tại chân núi sườn Đông = 16 + 20 = 36°C (tạo gió phơn khô nóng).
+---
+Câu 26: Câu thơ nổi tiếng của nhà thơ Thúy Bắc: "Trường Sơn Đông, Trường Sơn Tây / Bên nắng đốt, bên mưa quây" phản ánh quy luật tác động của nhân tố tự nhiên nào sau đây?
+A. Hướng sườn địa hình kết hợp với hướng di chuyển của hoàn lưu gió.
+B. Ảnh hưởng của dòng biển nóng và dòng biển lạnh ven bờ.
+C. Sự phân bố của các đai khí áp đối xứng qua chí tuyến.
+D. Tác động của bão biển nhiệt đới đổ bộ vào đất liền.
+Đáp án: A
+Giải thích: Khối khí gặp sườn đón gió gây mưa lớn (mưa quây), khi vượt sang sườn khuất gió bị biến tính khô nóng gay gắt (nắng đốt).
+---
+Câu 27: Dựa vào bảng số liệu nhiệt độ trung bình năm: Hà Nội (23,5°C), Huế (25,1°C), Quy Nhơn (26,4°C), TP. Hồ Chí Minh (26,9°C). Nhận xét nào sau đây phản ánh đúng quy luật phân bố nhiệt độ ở nước ta từ Bắc vào Nam?
+A. Giảm dần từ Bắc vào Nam do ảnh hưởng của gió mùa Tây Nam.
+B. Tăng dần từ Bắc vào Nam do góc nhập xạ tăng và miền Nam không chịu ảnh hưởng của gió mùa Đông Bắc lạnh.
+C. Không thay đổi do đều thuộc khu vực nhiệt đới ẩm gió mùa.
+D. Biến thiên bất thường không theo quy luật vĩ độ.
+Đáp án: B
+Giải thích: Đi từ Bắc vào Nam, vĩ độ giảm dần (góc nhập xạ tăng) và bức chắn dãy Bạch Mã ngăn gió mùa Đông Bắc khiến nhiệt độ tăng dần.
+---
+Câu 28: Quan sát biểu đồ khí hậu trạm Hà Nội: Nhiệt độ trung bình năm trên 23°C, tháng 1 lạnh nhất hạ xuống khoảng 16,4°C, tháng 7 nóng nhất đạt 28,9°C; mùa mưa tập trung từ tháng 5 đến tháng 10. Biểu đồ trên chứng minh đặc trưng khí hậu nào của miền Bắc nước ta?
+A. Khí hậu cận xích đạo gió mùa hai mùa mưa - khô rõ rệt.
+B. Khí hậu nhiệt đới gió mùa có một mùa đông lạnh.
+C. Khí hậu cận nhiệt đới địa trung hải khô nóng vào mùa hạ.
+D. Khí hậu ôn đới lục địa có mùa đông băng giá kéo dài.
+Đáp án: B
+Giải thích: Hà Nội có 3 tháng nhiệt độ dưới 18°C (mùa đông lạnh) do ảnh hưởng trực tiếp của gió mùa Đông Bắc.
+---
+Câu 29: Tại sao vào mùa hè, người dân ở vùng đồng bằng và các đô thị lớn thường có xu hướng đi du lịch, nghỉ dưỡng tại các địa danh như Sa Pa hay Đà Lạt?
+A. Do ở vùng núi có lượng mưa ít hơn vùng đồng bằng.
+B. Do quy luật giảm nhiệt độ theo độ cao (càng lên cao nhiệt độ càng hạ), tạo khí hậu mát mẻ dễ chịu.
+C. Do vùng núi có nồng độ khí oxy đậm đặc hơn đồng bằng.
+D. Do vùng núi không chịu tác động của bức xạ mặt trời.
+Đáp án: B
+Giải thích: Trung bình cứ lên cao 100m nhiệt độ giảm 0,6°C, nên các vùng núi cao có khí hậu quanh năm mát mẻ thích hợp du lịch nghỉ dưỡng.
+---
+Câu 30: Hoang mạc A-ta-ca-ma (Chi-lê) nằm ngay sát bờ bờ biển Thái Bình Dương nhưng lại là nơi khô hạn bậc nhất thế giới chủ yếu do tác động kết hợp của những nhân tố nào?
+A. Nằm ở đai áp thấp Xích đạo và có gió Tây ôn đới thổi qua.
+B. Nằm trong vùng áp cao chí tuyến, có dòng biển lạnh Pê-ru chạy sát bờ và rặng núi An-đét chắn gió ẩm từ phía đông.
+C. Thường xuyên chịu ảnh hưởng của bão và dải hội tụ nhiệt đới.
+D. Do thảm thực vật rừng rậm tiêu thụ hết lượng ẩm trong không khí.
+Đáp án: B
+Giải thích: Hoang mạc Atacama chịu sự kết hợp của 3 nhân tố: áp cao cận chí tuyến ngự trị, dòng biển lạnh Peru ngăn bốc hơi nước và dãy Andes chắn gió ẩm.
+
+[PHẦN 2: TRẮC NGHIỆM ĐÚNG SAI]
+Câu 1: Cấu trúc khí quyển và sự phân bố nhiệt độ không khí
+Thông tin: Tầng đối lưu là tầng thấp nhất của khí quyển, có độ dày từ khoảng 8 km ở hai cực đến 16 km ở vùng Xích đạo. Không khí trong tầng này chuyển động chủ yếu theo chiều thẳng đứng. Càng lên cao không khí càng loãng, bức xạ của bề mặt đất càng yếu nên nhiệt độ không khí giảm dần theo tiêu chuẩn trung bình cứ lên cao 100 m nhiệt độ lại giảm 0,6°C.
+a) Tầng đối lưu ở vùng Xích đạo dày hơn ở vùng hai cực chủ yếu do lực ly tâm của Trái Đất và nhiệt độ bề mặt đất ở Xích đạo rất cao làm không khí nở mạnh bốc lên.
+Đáp án a: Đúng
+Giải thích a: Do nhiệt độ cao quanh năm làm không khí đối lưu mạnh đẩy đỉnh tầng đối lưu lên cao tới 16 - 18 km ở Xích đạo.
+b) Tất cả các hiện tượng thời tiết như mây, mưa, sấm, chớp, sương mù đều chỉ diễn ra ở tầng bình lưu.
+Đáp án b: Sai
+Giải thích b: Hầu hết hơi nước và các hiện tượng thời tiết mây, mưa, sương mù tập trung ở tầng đối lưu, không phải tầng bình lưu.
+c) Một du khách leo từ chân núi (nhiệt độ 30°C) lên trạm dừng chân ở độ cao 1.500 m của ngọn núi này sẽ ghi nhận nhiệt độ khoảng 21°C (trong điều kiện đoạn nhiệt ẩm bình thường).
+Đáp án c: Đúng
+Giải thích c: Lên cao 1.500 m, nhiệt độ giảm: 15 x 0,6°C = 9°C => 30 - 9 = 21°C.
+d) Càng đi về phía hai cực, biên độ nhiệt độ năm càng nhỏ do góc nhập xạ quanh năm không thay đổi.
+Đáp án d: Sai
+Giải thích d: Càng về hai cực, chênh lệch góc nhập xạ và độ dài ngày đêm giữa các mùa càng lớn nên biên độ nhiệt độ năm càng lớn.
+---
+Câu 2: Khí áp và hoàn lưu khí quyển trên Trái Đất
+Thông tin: Trên bề mặt Trái Đất, các đai khí áp cao và áp thấp phân bố xen kẽ và đối xứng nhau qua đai áp thấp Xích đạo. Sự chênh lệch khí áp giữa các vùng là nguyên nhân trực tiếp sinh ra gió. Dưới tác động của lực Coriolis do Trái Đất tự quay quanh trục, hướng di chuyển của các luồng gió hành tinh bị lệch hướng.
+a) Không khí luôn di chuyển từ nơi có khí áp thấp về nơi có khí áp cao.
+Đáp án a: Sai
+Giải thích a: Gió luôn luôn di chuyển từ nơi áp cao về nơi áp thấp.
+b) Đai áp thấp Xích đạo hình thành chủ yếu do nguyên nhân nhiệt lực (nhiệt độ cao quanh năm làm không khí nở ra bốc lên).
+Đáp án b: Đúng
+Giải thích b: Bức xạ mặt trời lớn tại Xích đạo đốt nóng mặt đất khiến không khí giãn nở bốc lên cao tạo thành áp thấp nhiệt lực.
+c) Gió Mậu dịch (Tín phong) ở Bán cầu Bắc thổi từ áp cao cận chí tuyến về áp thấp Xích đạo bị lệch sang bên phải thành hướng Đông Bắc.
+Đáp án c: Đúng
+Giải thích c: Lực Coriolis làm lệch phải ở Bán cầu Bắc, biến hướng Bắc thành hướng Đông Bắc.
+d) Gió Tây ôn đới là loại gió thổi từ đai áp cao cực về đai áp thấp ôn đới mang theo khối không khí rất lạnh và khô.
+Đáp án d: Sai
+Giải thích d: Gió thổi từ áp cao cực về áp thấp ôn đới là Gió Đông cực; còn gió Tây ôn đới thổi từ áp cao cận chí tuyến về áp thấp ôn đới.
+---
+Câu 3: Gió mùa và gió địa phương (Hiệu ứng Phơn)
+Thông tin: Hiệu ứng phơn là hiện tượng thời tiết đặc biệt xảy ra khi một luồng gió ẩm gặp dãy núi cao chắn ngang. Không khí ẩm buộc phải bốc lên cao dọc theo sườn đón gió, nguội dần và ngưng tụ gây mưa lớn. Khi vượt qua đỉnh núi trườn xuống sườn bên kia (sườn khuất gió), khối khí đã mất phần lớn hơi ẩm và bị nén đoạn nhiệt khô khiến nhiệt độ tăng nhanh.
+a) Gió mùa Tây Nam vào đầu mùa hạ sau khi vượt qua dãy Trường Sơn Bắc gây ra thời tiết khô nóng đặc trưng cho vùng đồng bằng ven biển Bắc Trung Bộ nước ta.
+Đáp án a: Đúng
+Giải thích a: Khối khí nhiệt đới ẩm vịnh Ben-gan (TBg) vượt Trường Sơn gây nên gió phơn Tây Nam (gió Lào) khô nóng gay gắt.
+b) Ở sườn khuất gió, trung bình khi không khí hạ xuống 100 m thì nhiệt độ sẽ tăng thêm 1,0°C.
+Đáp án a: Đúng
+Giải thích b: Theo quy luật đoạn nhiệt khô của khí quyển, khi hạ xuống sườn khuất gió nhiệt độ tăng 1,0°C/100m.
+c) Sườn đón gió luôn có độ ẩm thấp hơn và nhiệt độ cao hơn sườn khuất gió ở cùng một độ cao chân núi.
+Đáp án c: Sai
+Giải thích c: Sườn đón gió có độ ẩm cao hơn (mưa nhiều) và khi xuống đến chân núi sườn khuất gió thì nhiệt độ sườn khuất gió cao hơn hẳn.
+d) Hiện tượng gió đất và gió biển hình thành ven bờ biển có chu kì thổi thay đổi theo năm.
+Đáp án d: Sai
+Giải thích d: Gió đất - gió biển là loại gió địa phương có chu kì thay đổi theo ngày - đêm, không phải theo năm.
+---
+Câu 4: Các nhân tố ảnh hưởng đến lượng mưa
+Thông tin: Lượng mưa trên Trái Đất phân bố không đều theo vĩ độ và phụ thuộc vào nhiều nhân tố: khí áp, frông, dải hội tụ nhiệt đới, gió, dòng biển và địa hình.
+a) Các vùng chịu ảnh hưởng của đai áp cao cận chí tuyến thường có lượng mưa rất lớn do không khí bốc lên mạnh.
+Đáp án a: Sai
+Giải thích a: Ở đai áp cao không khí chỉ hạ xuống nén lại, hơi nước không bốc lên được nên mưa rất ít (hình thành các hoang mạc lớn như Sahara).
+b) Nơi có dòng biển nóng chảy ven bờ thường có mưa nhiều vì không khí trên dòng biển nóng chứa nhiều hơi nước dễ bốc lên ngưng tụ.
+Đáp án b: Đúng
+Giải thích b: Dòng biển nóng tăng cường bốc hơi ẩm làm ẩm không khí, dễ gây mưa.
+c) Miền có dải hội tụ nhiệt đới đi qua thường xuất hiện mưa lớn kèm dông bão.
+Đáp án c: Đúng
+Giải thích c: Dải hội tụ nhiệt đới là nơi hội tụ các luồng khí nóng ẩm bốc lên rất mạnh, gây mưa to và bão.
+d) Cùng một sườn núi, càng lên cao lượng mưa luôn luôn tăng liên tục cho đến tận đỉnh núi.
+Đáp án d: Sai
+Giải thích d: Càng lên cao lượng mưa chỉ tăng đến một độ cao nhất định, vượt qua ngưỡng đó lượng hơi nước cạn kiệt thì lượng mưa sẽ giảm dần.
+---
+Câu 5: Phân tích biểu đồ và các đới khí hậu trên Trái Đất (Bài 10 SGK)
+Thông tin: Cho bảng số liệu khí hậu của trạm Va-len-ti-a (Ai-len): Nhiệt độ trung bình năm: 10,7°C (tháng lạnh nhất: 7,0°C; tháng nóng nhất: 15,2°C). Tổng lượng mưa năm: 1.417 mm (mưa phân bố đều tất cả các tháng trong năm, tháng mưa ít nhất cũng trên 80 mm).
+a) Trạm Va-len-ti-a thuộc kiểu khí hậu ôn đới lục địa có mùa đông đóng băng kéo dài.
+Đáp án a: Sai
+Giải thích a: Va-len-ti-a thuộc kiểu khí hậu ôn đới hải dương, không phải ôn đới lục địa.
+b) Biên độ nhiệt độ năm của trạm Va-len-ti-a rất nhỏ (khoảng 8,2°C), phản ánh rõ nét tính chất điều hòa của đại dương.
+Đáp án b: Đúng
+Giải thích b: 15,2 - 7,0 = 8,2°C (biên độ nhiệt độ năm nhỏ đặc trưng cho khí hậu ven biển).
+c) Lượng mưa dồi dào quanh năm của trạm chủ yếu do tác động của gió Tây ôn đới kết hợp dòng biển nóng Bắc Đại Tây Dương.
+Đáp án c: Đúng
+Giải thích c: Gió Tây ôn đới ẩm thổi qua dòng biển nóng Bắc Đại Tây Dương mang lượng ẩm lớn vào bờ tây châu Âu.
+d) Trạm Va-len-ti-a có từ 3 đến 4 tháng nhiệt độ hạ sâu dưới 0°C.
+Đáp án d: Sai
+Giải thích d: Tháng lạnh nhất là 7,0°C, mùa đông ấm áp và hoàn toàn không có tháng nào dưới 0°C.
+
+[PHẦN 3: CÂU HỎI TRẢ LỜI NGẮN]
+Câu 1: Một khối khí ẩm từ biển thổi vào có nhiệt độ tại chân núi sườn đón gió là 26°C. Khối khí này vượt qua đỉnh núi cao 1.500 m (nhiệt độ giảm trung bình 0,6°C/100 m) rồi tràn xuống sườn khuất gió (nhiệt độ tăng trung bình 1,0°C/100 m). Hỏi nhiệt độ của khối khí khi xuống đến chân núi sườn khuất gió (độ cao 0 m) là bao nhiêu °C?
+Đáp án: 32
+Giải thích: Độ giảm nhiệt khi lên đỉnh núi (1.500 m) là: (1.500 / 100) * 0,6 = 9°C => Nhiệt độ đỉnh núi = 26 - 9 = 17°C. Độ tăng nhiệt khi xuống chân núi sườn khuất gió là: (1.500 / 100) * 1,0 = 15°C => Nhiệt độ chân núi sườn khuất gió = 17 + 15 = 32°C.
+---
+Câu 2: Dựa vào bảng số liệu nhiệt độ trạm khí tượng Hà Nội (SGK Bài 10): tháng 1 lạnh nhất đạt 16,4°C, tháng 7 nóng nhất đạt 28,9°C. Biên độ nhiệt độ năm của trạm khí tượng Hà Nội là bao nhiêu °C (làm tròn kết quả đến một chữ số thập phân)?
+Đáp án: 12,5
+Giải thích: Biên độ nhiệt độ năm = Nhiệt độ tháng cao nhất - Nhiệt độ tháng thấp nhất = 28,9 - 16,4 = 12,5°C.
+---
+Câu 3: Trên bề mặt Trái Đất, có tất cả bao nhiêu đai khí áp chính phân bố xen kẽ và đối xứng nhau qua đai áp thấp Xích đạo?
+Đáp án: 7
+Giải thích: Có 7 đai khí áp chính trên Trái Đất: 1 đai áp thấp Xích đạo, 2 đai áp cao cận chí tuyến, 2 đai áp thấp ôn đới và 2 đai áp cao cực.
