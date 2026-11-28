@@ -5,7 +5,7 @@ B. Chỉ có trong các đại dương và sông ngòi trên lục địa.
 C. Chỉ có trong khí quyển dưới dạng hơi nước và mây.
 D. Chỉ tồn tại dưới dạng đóng băng ở hai vùng cực Trái Đất.
 Giải thích: Thủy quyển là toàn bộ lớp nước bao quanh Trái Đất, phân bố trong các đại dương, trên lục địa (sông, hồ, băng tuyết, nước ngầm), trong các lớp đất đá, trong khí quyển và cả trong cơ thể sinh vật.
-
+---
 Câu 2: Bộ phận nào sau đây chiếm tỉ lệ lớn nhất trong tổng lượng nước của thủy quyển trên Trái Đất?
 A. Nước sông, hồ và ao đầm trên lục địa.
 B. Nước ngầm trong lòng đất.
@@ -13,7 +13,7 @@ C. Nước biển và đại dương (chiếm khoảng 97,5%).
 D. Nước băng tuyết ở hai vùng cực.
 Đáp án: C
 Giải thích: Trong thủy quyển, nước biển và đại dương chiếm khoảng 97,5% tổng lượng nước, phần nước ngọt còn lại chỉ chiếm khoảng 2,5%.
-
+---
 Câu 3: Nguồn cung cấp nước chủ yếu làm biến động rõ rệt nhất chế độ nước (lưu lượng) của sông ngòi ở vùng khí hậu nhiệt đới gió mùa là gì?
 A. Nước do băng tuyết tan chảy vào mùa xuân.
 B. Nước mưa theo mùa.
@@ -21,7 +21,7 @@ C. Nước ngầm chảy ra từ lòng đất.
 D. Nước từ các hồ thủy điện xả ra.
 Đáp án: B
 Giải thích: Ở vùng khí hậu nhiệt đới gió mùa, nước mưa là nguồn cấp nước chính cho sông. Chế độ nước sông phụ thuộc chặt chẽ vào chế độ mưa (mùa mưa trùng mùa lũ, mùa khô trùng mùa cạn).
-
+---
 Câu 4: Sông ngòi ở vùng ôn đới lạnh hoặc vùng núi cao có chế độ nước lũ vào mùa nào trong năm chủ yếu do nguồn cấp nước nào?
 A. Mùa đông do nước mưa rào tập trung.
 B. Mùa xuân - hè do tuyết và băng tan.
@@ -29,7 +29,7 @@ C. Mùa thu do nước ngầm dâng cao.
 D. Quanh năm do triều cường ngoài biển.
 Đáp án: B
 Giải thích: Ở vùng ôn đới lạnh hoặc núi cao, mùa đông tuyết rơi tích tụ, đến mùa xuân và đầu mùa hạ nhiệt độ tăng lên làm băng tuyết tan chảy cung cấp nước cho sông gây ra mùa lũ.
-
+---
 Câu 5: Nhóm nhân tố nào sau đây có tác dụng điều tiết dòng chảy sông ngòi, làm giảm đỉnh lũ vào mùa mưa và tăng lưu lượng nước vào mùa cạn?
 A. Độ dốc địa hình lớn và sông ngắn dốc.
 B. Thảm thực vật rừng và hệ thống hồ, đầm lầy.
@@ -37,7 +37,7 @@ C. Lớp đất đá không thấm nước.
 D. Mạng lưới sông ngòi dạng nan quạt.
 Đáp án: B
 Giải thích: Thực vật (rừng) giúp giữ nước mưa và hạ thấp tốc độ dòng chảy mặt, còn hồ đầm chứa bớt nước lũ và cung cấp lại nước vào mùa cạn, giúp điều tiết chế độ nước sông.
-
+---
 Câu 6: Hồ Bai-can (Liên bang Nga) – hồ nước ngọt sâu nhất thế giới – được hình thành theo nguồn gốc nào sau đây?
 A. Hồ núi lửa.
 B. Hồ kiến tạo.
@@ -45,7 +45,7 @@ C. Hồ móng ngựa.
 D. Hồ băng hà.
 Đáp án: B
 Giải thích: Hồ Bai-can hình thành tại các nơi sụt nứt, đứt gãy do các mảng kiến tạo di chuyển, thuộc nhóm hồ kiến tạo.
-
+---
 Câu 7: Hồ Tây ở Hà Nội được hình thành theo nguồn gốc nào sau đây?
 A. Hồ núi lửa bị nứt vỡ.
 B. Hồ móng ngựa (khúc uốn sông Hồng bị tách ra).
@@ -53,7 +53,7 @@ C. Hồ do băng hà đào xới.
 D. Hồ kiến tạo sụp đổ.
 Đáp án: B
 Giải thích: Hồ Tây là một ví dụ điển hình về hồ móng ngựa, hình thành do khúc uốn của sông Hồng bị tách ra khỏi dòng chính khi sông đổi dòng.
-
+---
 Câu 8: Hơn 90% tổng lượng băng tuyết trên Trái Đất hiện nay nằm tập trung ở khu vực nào?
 A. Vùng núi cao Hi-ma-lay-a.
 B. Vùng Nam Cực và đảo Grơn-len (Bắc Cực).
@@ -61,7 +61,7 @@ C. Vùng núi An-đét ở Nam Mỹ.
 D. Vùng Bắc Mỹ và Bắc Âu.
 Đáp án: B
 Giải thích: Băng tuyết khá phổ biến ở vùng hàn đới, ôn đới và núi cao. Hơn 90% lượng băng trên Trái Đất nằm ở vùng cực Bắc (Grơn-len) và cực Nam (Nam Cực).
-
+---
 Câu 9: Mực nước ngầm và lượng nước ngầm ở một khu vực không phụ thuộc trực tiếp vào nhân tố nào sau đây?
 A. Nguồn cung cấp nước (mưa, tuyết tan, sông hồ).
 B. Địa hình, khả năng thấm của đất đá và lớp phủ thực vật.
@@ -69,7 +69,7 @@ C. Nhiệt độ của nước biển ngoài đại dương xa.
 D. Mức độ bốc hơi không khí.
 Đáp án: C
 Giải thích: Nước ngầm phụ thuộc vào nguồn cấp (mưa, sông), địa hình, tính thấm của đất đá và thực vật. Nhiệt độ nước biển ngoài đại dương xa không trực tiếp quyết định mực nước ngầm trên lục địa.
-
+---
 Câu 10: Độ muối (độ mặn) trung bình của nước biển và đại dương trên thế giới là bao nhiêu?
 A. 10‰.
 B. 35‰.
@@ -77,7 +77,7 @@ C. 43‰.
 D. 50‰.
 Đáp án: B
 Giải thích: Nước biển có nhiều chất hòa tan, độ muối trung bình của nước biển và đại dương là 35‰ (35 gam muối trong 1 lit nước biển).
-
+---
 Câu 11: Ở vùng biển đỏ (Hồng Hải), độ muối lên tới 43‰ chủ yếu do nguyên nhân nào sau đây?
 A. Có nhiều sông lớn mang nước ngọt đổ vào.
 B. Vùng có độ bốc hơi rất lớn và ít sông ngòi chảy vào.
@@ -85,7 +85,7 @@ C. Do lượng mưa quanh năm quá dồi dào.
 D. Do có dòng biển lạnh chảy qua.
 Đáp án: B
 Giải thích: Biển Đỏ nằm ở vùng khí hậu chí tuyến khô nóng, độ bốc hơi rất lớn trong khi lại có rất ít sông chảy vào nên độ muối đạt mức rất cao (43‰).
-
+---
 Câu 12: Nhận xét nào sau đây đúng về sự thay đổi độ muối của nước biển theo vĩ độ từ Xích đạo về cực?
 A. Tăng dần liên tục từ Xích đạo đến cực.
 B. Cao nhất ở vùng chí tuyến (36,8‰), giảm ở Xích đạo (34,5‰) và giảm thấp ở vùng cực (34‰).
@@ -93,7 +93,7 @@ C. Giảm dần liên tục từ Xích đạo đến cực.
 D. Bằng nhau ở tất cả các vĩ độ.
 Đáp án: B
 Giải thích: Độ muối thay đổi theo vĩ độ: ở Xích đạo mưa nhiều nên độ muối vừa phải (34,5‰); ở Chí tuyến bốc hơi lớn mưa ít nên độ muối cao nhất (36,8‰); về vùng ôn đới và cực độ muối giảm dần.
-
+---
 Câu 13: Nhiệt độ trung bình bề mặt toàn bộ đại dương thế giới là khoảng bao nhiêu?
 A. 0°C.
 B. 17°C.
@@ -101,7 +101,7 @@ C. 25°C.
 D. 30°C.
 Đáp án: B
 Giải thích: Nhiệt độ nước biển điều hòa hơn không khí, nhiệt độ trung bình bề mặt toàn bộ đại dương thế giới là khoảng 17°C.
-
+---
 Câu 14: Sóng biển là hình thức vận động của nước biển có đặc điểm nào sau đây?
 A. Sự di chuyển ngang của khối nước biển từ vĩ độ cao về vĩ độ thấp.
 B. Sự dao động của nước biển theo chiều thẳng đứng tại chỗ.
@@ -109,7 +109,7 @@ C. Sự dâng lên hạ thấp của nước biển theo chu kì ngày đêm.
 D. Sự chảy thành dòng liên tục trên bề mặt đại dương.
 Đáp án: B
 Giải thích: Sóng biển là sự dao động của nước biển theo chiều thẳng đứng. Hầu hết sóng biển được sinh ra do gió.
-
+---
 Câu 15: Nguyên nhân chủ yếu sinh ra các trận Sóng thần (Tsunami) với chiều cao sóng lên tới hàng chục mét và sức phá hủy thảm khốc ven biển là gì?
 A. Do gió bão giật trên cấp 12 ngoài khơi.
 B. Do động đất hoặc núi lửa phun trào lớn dưới đáy biển.
@@ -117,7 +117,7 @@ C. Do lực hấp dẫn của Mặt Trăng vào ngày triều cường.
 D. Do chênh lệch nhiệt độ giữa các đới khí hậu.
 Đáp án: B
 Giải thích: Sóng thần sinh ra do các hoạt động động đất, núi lửa ngầm lớn dưới đáy biển làm dịch chuyển khối nước biển khổng lồ truyền theo phương ngang.
-
+---
 Câu 16: Lực tác động chủ yếu sinh ra hiện tượng thủy triều (nước biển dâng cao và hạ thấp theo quy luật) là gì?
 A. Gió Tín phong và gió Tây ôn đới.
 B. Lực hấp dẫn của Mặt Trăng và Mặt Trời cùng với lực ly tâm của Trái Đất.
@@ -125,7 +125,7 @@ C. Sự thay đổi khí áp giữa đất liền và đại dương.
 D. Tác động của các dòng hải lưu nóng lạnh.
 Đáp án: B
 Giải thích: Thủy triều sinh ra chủ yếu do lực hấp dẫn của Mặt Trăng và Mặt Trời tác động lên khối nước đại dương cùng với lực ly tâm của Trái Đất.
-
+---
 Câu 17: Hiện tượng "Triều cường" (mực nước triều dâng cao nhất và hạ thấp nhất trong tháng) xảy ra khi vị trí của Trái Đất, Mặt Trăng và Mặt Trời có đặc điểm gì?
 A. Nằm thẳng hàng với nhau (vào các ngày mùng 1 và 15 âm lịch).
 B. Nằm tạo thành một góc vuông 90° (vào các ngày mùng 7 và 23 âm lịch).
@@ -133,7 +133,7 @@ C. Mặt Trăng nằm che khuất hoàn toàn Mặt Trời.
 D. Trái Đất ở vị trí xa Mặt Trời nhất trên quỹ đạo.
 Đáp án: A
 Giải thích: Khi Mặt Trời, Trái Đất và Mặt Trăng cùng nằm thẳng hàng (ngày không trăng mùng 1 và ngày trăng tròn 15 âm lịch), lực hấp dẫn tổng hợp lớn nhất sinh ra hiện tượng triều cường.
-
+---
 Câu 18: Hiện tượng "Triều kém" (biên độ dao động thủy triều nhỏ nhất trong tháng) xảy ra vào các ngày nào theo âm lịch?
 A. Mùng 1 và ngày 15 (Rằm).
 B. Ngày mùng 7 và ngày 23 (bán nguyệt).
@@ -141,7 +141,7 @@ C. Ngày 30 cuối tháng.
 D. Tất cả các ngày trong mùa hè.
 Đáp án: B
 Giải thích: Khi Mặt Trăng, Trái Đất và Mặt Trời tạo thành góc vuông (ngày mùng 7 và 23 âm lịch), lực hấp dẫn bị phân tán khiến biên độ triều nhỏ nhất (triều kém).
-
+---
 Câu 19: Các dòng biển nóng trên thế giới thường có hướng xuất phát và di chuyển như thế nào?
 A. Xuất phát từ vùng vĩ độ cao (gần cực) chảy về vùng vĩ độ thấp (Xích đạo).
 B. Xuất phát từ vùng vĩ độ thấp (Xích đạo) chảy về phía vùng vĩ độ cao (ôn đới/cực).
@@ -149,7 +149,7 @@ C. Chải chìm sâu dưới đáy đại dương từ Bắc xuống Nam.
 D. Chỉ chảy quanh các hòn đảo ven bờ.
 Đáp án: B
 Giải thích: Dòng biển nóng là các dòng nước chảy từ vùng nước ấm ở vĩ độ thấp (Xích đạo, nhiệt đới) về phía các vùng vĩ độ cao lạnh hơn.
-
+---
 Câu 20: Dòng biển lạnh thường xuất phát từ vùng vĩ độ cao chảy về vùng vĩ độ thấp có tác ảnh hưởng thế nào đến khí hậu ven bờ nơi nó chảy qua?
 A. Làm ven bờ mưa rất nhiều và ẩm ướt.
 B. Làm không khí ven bờ bị ổn định, khó ngưng tụ mưa, hình thành khí hậu khô hạn / hoang mạc.
@@ -157,7 +157,7 @@ C. Làm nhiệt độ ven bờ tăng cao bất thường.
 D. Gây ra hiện tượng bão tuyết nhiệt đới.
 Đáp án: B
 Giải thích: Dòng biển lạnh làm hạ nhiệt độ lớp không khí xát mặt nước, làm không khí khó bốc hơi ngưng tụ, do đó nơi có dòng biển lạnh chảy qua có khí hậu rất khô hạn (thường hình thành hoang mạc ven biển như A-ta-ca-ma).
-
+---
 Câu 21: Nơi gặp gỡ giữa các dòng biển nóng và dòng biển lạnh ngoài đại dương thường tạo ra điều kiện thuận lợi nào cho ngành kinh tế biển?
 A. Thuận lợi cho giao thông đường thủy tốc độ cao.
 B. Tạo thành các ngư trường lớn với nguồn hải sản vô cùng phong phú.
@@ -165,7 +165,7 @@ C. Thuận lợi cho việc khai thác khoáng sản dầu mỏ.
 D. Giúp xây dựng các đập thủy điện sóng biển.
 Đáp án: B
 Giải thích: Vùng gặp nhau của dòng biển nóng và dòng biển lạnh tạo ra sự xáo trộn dinh dưỡng lớn, sinh vật phát triển mạnh, hình thành nên các ngư trường cá lớn nổi tiếng thế giới.
-
+---
 Câu 22: Trong Bài 13 thực hành phân tích thủy chế Sông Hồng tại trạm Hà Nội, mùa lũ của Sông Hồng kéo dài trong khoảng thời gian nào?
 A. Từ tháng 1 đến tháng 5.
 B. Từ tháng 6 đến tháng 10.
@@ -173,7 +173,7 @@ C. Từ tháng 9 đến tháng 12.
 D. Kéo dài suốt 12 tháng.
 Đáp án: B
 Giải thích: Theo bảng số liệu lưu lượng nước trạm Hà Nội (Bài 13 SGK), mùa lũ sông Hồng diễn ra trong 5 tháng liên tục từ tháng 6 đến tháng 10, trùng với mùa mưa ở Bắc Bộ.
-
+---
 Câu 23: Hai tháng nào sau đây có lưu lượng nước trung bình lớn nhất (đỉnh lũ) của Sông Hồng tại Hà Nội?
 A. Tháng 1 và tháng 2.
 B. Tháng 7 và tháng 8 (lưu lượng > 7.200 m³/s).
@@ -181,7 +181,7 @@ C. Tháng 11 và tháng 12.
 D. Tháng 4 và tháng 5.
 Đáp án: B
 Giải thích: Trong thủy chế sông Hồng, đỉnh lũ tập trung vào tháng 7 (7.300 m³/s) và tháng 8 (7.266 m³/s).
-
+---
 Câu 24: Tháng nào có lưu lượng nước nhỏ nhất (tháng kiệt nhất) trong mùa cạn của Sông Hồng tại Hà Nội?
 A. Tháng 3 (lưu lượng 1.215 m³/s).
 B. Tháng 7.
@@ -189,7 +189,7 @@ C. Tháng 10.
 D. Tháng 8.
 Đáp án: A
 Giải thích: Mùa cạn sông Hồng kéo dài từ tháng 11 đến tháng 5 năm sau, trong đó tháng 3 có lưu lượng nước thấp nhất (1.215 m³/s).
-
+---
 Câu 25: Vai trò quan trọng nhất của việc bảo vệ nguồn nước ngọt trên Trái Đất hiện nay là gì?
 A. Giúp giảm nguy cơ động đất và núi lửa.
 B. Đảm bảo nhu cầu duy trì sự sống, sản xuất nông - công nghiệp và an ninh nguồn nước quốc gia.
@@ -197,7 +197,7 @@ C. Giúp giữ cho độ muối của biển luôn ổn định tuyệt đối.
 D. Làm thay đổi hướng quay của Trái Đất.
 Đáp án: B
 Giải thích: Nước ngọt là tài nguyên thiết yếu cho sinh hoạt con người, sản xuất nông nghiệp, công nghiệp. Bảo vệ nước ngọt giúp tránh suy giảm và ô nhiễm nguồn nước, đảm bảo an ninh nguồn nước.
-
+---
 Câu 26: Tại sao các sông ở khu vực Đồng bằng sông Cửu Long nước ta có chế độ nước điều hòa hơn sông ngòi ở Miền Bắc?
 A. Do sông ngòi Miền Nam không có mưa.
 B. Do có Biển Hồ (Căm-pu-chia) và hệ thống kênh rạch, đầm lầy rộng lớn giúp điều tiết nước.
@@ -205,7 +205,7 @@ C. Do sông Miền Nam chảy qua vùng núi cao hơn.
 D. Do sông Miền Nam ngắn và dốc hơn.
 Đáp án: B
 Giải thích: Sông Tiền và sông Hậu được điều tiết nước hiệu quả nhờ Biển Hồ (Campuchia) chứa bớt nước mùa lũ và xả lại mùa cạn, kết hợp thảm thực vật đầm lầy giúp dòng chảy điều hòa hơn.
-
+---
 Câu 27: Một vùng lục địa có địa hình độ dốc lớn, thiếu lớp phủ thực vật khi có mưa lớn xảy ra sẽ dẫn đến hệ quả thủy văn nào sau đây?
 A. Nước ngầm tăng nhanh, không có lũ mặt.
 B. Nước dồn nhanh xuống sông gây lũ quét, lũ ống thảm khốc và làm giảm lượng nước thấm xuống đất ngầm.
@@ -213,7 +213,7 @@ C. Sông ngòi chảy chậm và điều hòa.
 D. Lượng bốc hơi tăng lên gấp đôi.
 Đáp án: B
 Giải thích: Độ dốc lớn và thiếu rừng bao phủ khiến nước mưa không thể thấm vào đất mà chảy tràn nhanh trên bề mặt, gây ra lũ quét, xói mòn đất nghiêm trọng và suy giảm nước ngầm.
-
+---
 Câu 28: Dao động thủy triều trên Trái Đất có biên độ lớn nhất tại các địa hình có đặc điểm nào sau đây?
 A. Ở các bờ biển thẳng không có vịnh.
 B. Ở các vũng vịnh có hình phễu thắt hẹp dần vào trong (như vịnh Fun-đi ở Ca-na-đa).
@@ -221,7 +221,7 @@ C. Ở ngoài khơi xa giữa đại dương.
 D. Ở các rạn san hô nông.
 Đáp án: B
 Giải thích: Tại các vịnh biển hình phễu thắt hẹp vào trong, sóng triều bị dồn ép diện tích làm biên độ dâng cao của thủy triều tăng lên rất lớn (như vịnh Fundy dâng cao tới 15 - 18m).
-
+---
 Câu 29: Ngày Nước thế giới được Liên Hợp Quốc chọn phát động hàng năm vào ngày nào nhằm nâng cao nhận thức bảo vệ tài nguyên nước?
 A. Ngày 22 tháng 3.
 B. Ngày 05 tháng 6.
@@ -229,7 +229,7 @@ C. Ngày 22 tháng 12.
 D. Ngày 01 tháng 1.
 Đáp án: A
 Giải thích: Từ năm 1993, Liên Hợp Quốc đã lấy ngày 22 tháng 3 hằng năm làm Ngày Nước Thế giới (World Water Day).
-
+---
 Câu 30: Hiện tượng El Nino có tác động như thế nào đến thủy chế sông ngòi và thời tiết ở Việt Nam?
 A. Làm mưa tăng đột biến gây lũ lụt khắp cả nước.
 B. Thường gây ra hạn hán, thiếu hụt lượng mưa và làm hạ thấp lưu lượng nước sông ngòi.
@@ -320,11 +320,11 @@ Giải thích d: Đúng, ngăn ngừa ô nhiễm từ nguồn là giải pháp c
 Câu 1: Nước biển và đại dương có độ muối trung bình là 35‰. Hỏi trong 1.000 gam (1 kg) nước biển trung bình chứa bao nhiêu gam muối hòa tan?
 Đáp án: 35
 Giải thích: Khái niệm độ muối 35‰ nghĩa là trong 1.000g nước biển chứa 35g muối khoảng hòa tan.
-
+---
 Câu 2: Theo bảng số liệu Bài 13 SGK Địa lí 10, mùa lũ của Sông Hồng tại trạm Hà Nội diễn ra liên tục trong bao nhiêu tháng (từ tháng 6 đến tháng 10)?
 Đáp án: 5
 Giải thích: Mùa lũ sông Hồng gồm 5 tháng: T6, T7, T8, T9, T10.
-
+---
 Câu 3: Trong SGK Địa lí 10 (Bộ Kết nối tri thức với cuộc sống), Chương 5 "Thủy quyển" bao gồm tất cả bao nhiêu bài học (kể từ Bài 11 đến Bài 13)?
 Đáp án: 3
 Giải thích: Chương 5 gồm 3 bài học: Bài 11 (Thủy quyển, nước trên lục địa), Bài 12 (Nước biển và đại dương) và Bài 13 (Thực hành: Phân tích chế độ nước của sông Hồng).
