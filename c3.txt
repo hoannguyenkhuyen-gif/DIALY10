@@ -6,7 +6,7 @@ C. Lớp vỏ lục địa và lớp vỏ đại dương.
 D. Lớp manti trên và nhân Trái Đất.
 Đáp án: A
 Giải thích: Thạch quyển gồm vỏ Trái Đất và phần cứng mỏng phía trên của manti, có độ dày khoảng 100 km.
-
+---
 Câu 2: Độ dày trung bình của thạch quyển là khoảng bao nhiêu km?
 A. 10 km.
 B. 35 km.
@@ -14,7 +14,7 @@ C. 100 km.
 D. 2900 km.
 Đáp án: C
 Giải thích: Thạch quyển gồm vỏ Trái Đất và phần trên cùng của manti, có độ dày khoảng 100 km.
-
+---
 Câu 3: Ranh giới bên dưới của thạch quyển tiếp xúc với tầng nào của lớp manti?
 A. Tầng nhân trong rắn chắc.
 B. Lớp quánh dẻo của manti.
@@ -22,7 +22,7 @@ C. Tầng trầm tích ngoài cùng.
 D. Tầng granit lục địa.
 Đáp án: B
 Giải thích: Ranh giới bên dưới của thạch quyển tiếp xúc với lớp quánh dẻo của manti, tạo điều kiện cho các mảng kiến tạo di chuyển.
-
+---
 Câu 4: Điểm khác biệt căn bản giữa vỏ Trái Đất và thạch quyển là gì?
 A. Vỏ Trái Đất mỏng hơn thạch quyển và không bao gồm phần cứng phía trên của manti.
 B. Vỏ Trái Đất bao gồm cả nhân Trái Đất còn thạch quyển thì không.
@@ -30,7 +30,7 @@ C. Thạch quyển nằm hoàn toàn ở lớp vỏ đại dương.
 D. Vỏ Trái Đất chỉ có ở lục địa còn thạch quyển chỉ có ở đại dương.
 Đáp án: A
 Giải thích: Vỏ Trái Đất chỉ dày từ 5 km đến 70 km, trong khi thạch quyển dày khoảng 100 km bao gồm vỏ Trái Đất và phần cứng phía trên của manti.
-
+---
 Câu 5: Theo thuyết kiến tạo mảng, thạch quyển Trái Đất bị gãy vỡ và tách ra thành các bộ phận cứng gọi là gì?
 A. Các đới khí áp.
 B. Các mảng kiến tạo.
@@ -38,7 +38,7 @@ C. Các nếp uốn địa chất.
 D. Các đứt gãy sụt nát.
 Đáp án: B
 Giải thích: Thạch quyển bị gãy vỡ thành các khối cứng gọi là các mảng kiến tạo (mảng thạch quyển).
-
+---
 Câu 6: Các mảng kiến tạo có thể dịch chuyển được trên bề mặt Trái Đất là nhờ vào yếu tố nào?
 A. Sự quay quanh trục của Trái Đất với tốc độ cao.
 B. Sự di chuyển trượt trên lớp quánh dẻo của manti.
@@ -46,7 +46,7 @@ C. Sức hút hấp dẫn mạnh mẽ từ Mặt Trăng.
 D. Lực ép của bầu khí quyển xuống bề mặt Trái Đất.
 Đáp án: B
 Giải thích: Các mảng kiến tạo trôi nổi và dịch chuyển chậm trên lớp vật chất quánh dẻo của manti bên dưới.
-
+---
 Câu 7: Khi hai mảng kiến tạo xô vào nhau (tiếp xúc dồn ép), ở vùng tiếp xúc thường hình thành nên dạng địa hình nào sau đây?
 A. Các dãy núi cao, vực biển sâu hoặc sống núi ngầm.
 B. Các đồng bằng phù sa bằng phẳng.
@@ -54,7 +54,7 @@ C. Các bãi bồi ven sông rộng lớn.
 D. Các đài nguyên băng giá.
 Đáp án: A
 Giải thích: Khi hai mảng xô vào nhau sẽ làm uốn nếp nâng cao tạo các dãy núi đồ xộ (như Hi-ma-lay-a) hoặc làm vỏ đại dương bị hút chìm tạo vực biển sâu (như vực biển Pê-ru - Chi-lê).
-
+---
 Câu 8: Dãy núi cao đồ xộ Hi-ma-lay-a ở châu Á được hình thành do sự xô vào nhau của hai mảng kiến tạo nào?
 A. Mảng Ấn Độ - Ô-xtrây-li-a và mảng Âu - Á.
 B. Mảng Bắc Mỹ và mảng Thái Bình Dương.
@@ -62,7 +62,7 @@ C. Mảng Phi và mảng Nam Mỹ.
 D. Mảng Na-xca và mảng Nam Mỹ.
 Đáp án: A
 Giải thích: Dãy Hi-ma-lay-a hình thành do sự dồn ép xô vào nhau giữa mảng Ấn Độ - Ô-xtrây-li-a và mảng Âu - Á.
-
+---
 Câu 9: Vực biển sâu Pê-ru - Chi-lê và dãy núi cao An-đét ở Nam Mỹ được hình thành do sự va chạm giữa hai mảng kiến tạo nào?
 A. Mảng Na-xca (đại dương) và mảng Nam Mỹ (lục địa).
 B. Mảng Thái Bình Dương và mảng Âu - Á.
@@ -70,7 +70,7 @@ C. Mảng Phi và mảng Ấn Độ.
 D. Mảng Bắc Mỹ và mảng Nam Cực.
 Đáp án: A
 Giải thích: Mảng đại dương Na-xca xô húc chìm dưới mảng lục địa Nam Mỹ tạo nên vực biển sâu Pê-ru - Chi-lê và dãy núi cao An-đét.
-
+---
 Câu 10: Khi hai mảng kiến tạo tách xa nhau, vật chất macma trào lên ở vết nứt sẽ tạo ra dạng địa hình đặc trưng nào dưới lòng đại dương?
 A. Vực biển sâu nhất thế giới.
 B. Sống núi ngầm giữa đại dương kèm theo động đất, núi lửa.
@@ -78,7 +78,7 @@ C. Đồng bằng châu thổ ven biển.
 D. Các hồ đầm nước ngọt.
 Đáp án: B
 Giải thích: Khi hai mảng tách xa nhau, macma trào lên tạo thành các sống núi ngầm giữa đại dương (như sống núi ngầm Đại Tây Dương).
-
+---
 Câu 11: Nội lực là lực được sinh ra từ nguồn gốc nào sau đây?
 A. Bức xạ năng lượng trực tiếp từ Mặt Trời.
 B. Trong lòng Trái Đất.
@@ -86,7 +86,7 @@ C. Lực hút của Mặt Trăng và các sao.
 D. Hoạt động sản xuất công nghiệp của con người.
 Đáp án: B
 Giải thích: Nội lực là lực được sinh ra ở bên trong lòng Trái Đất.
-
+---
 Câu 12: Nguồn năng lượng chủ yếu sinh ra nội lực là do yếu tố nào sau đây?
 A. Sự phân huỷ các chất phóng xạ và các phản ứng hoá học toả nhiệt trong lòng đất.
 B. Sóng biển và thuỷ triều dâng cao.
@@ -94,7 +94,7 @@ C. Sức nén của không khí tầng đối lưu.
 D. Bức xạ sóng ngắn từ khí quyển.
 Đáp án: A
 Giải thích: Nguồn năng lượng sinh ra nội lực chủ yếu là năng lượng phân huỷ chất phóng xạ, sự chuyển dịch vật chất theo tỉ trọng và các phản ứng hoá học trong lòng Trái Đất.
-
+---
 Câu 13: Các vận động kiến tạo do nội lực tác động đến địa hình Trái Đất bao gồm hai hướng vận động chính nào?
 A. Vận động theo phương thẳng đứng và vận động theo phương nằm ngang.
 B. Vận động xoáy ốc và vận động giật lùi.
@@ -102,7 +102,7 @@ C. Vận động tịnh tiến và vận động tự quay.
 D. Vận động chấn động và vận động phong hoá.
 Đáp án: A
 Giải thích: Nội lực tác động đến địa hình thông qua các vận động kiến tạo gồm vận động theo phương thẳng đứng và vận động theo phương nằm ngang.
-
+---
 Câu 14: Hiện tượng nâng lên, hạ xuống diễn ra trên một diện tích rộng lớn của vỏ Trái Đất là kết quả của loại vận động nào?
 A. Vận động theo phương thẳng đứng (biển tiến, biển thoái).
 B. Quá trình phong hoá sinh học.
@@ -110,7 +110,7 @@ C. Hoạt động xâm thực của nước chảy.
 D. Vận động uốn nếp cục bộ.
 Đáp án: A
 Giải thích: Vận động theo phương thẳng đứng làm cho các bộ phận của lục địa nâng lên hay hạ xuống trên diện tích rộng lớn, gây nên hiện tượng biển tiến, biển thoái.
-
+---
 Câu 15: Kết quả tác động của vận động kiến tạo theo phương nằm ngang làm cho đá bị nén ép, uốn cong thành các nếp uốn nhưng không làm gãy vỡ gọi là hiện tượng gì?
 A. Hiện tượng uốn nếp.
 B. Hiện tượng đứt gãy.
@@ -118,7 +118,7 @@ C. Hiện tượng phong hoá.
 D. Hiện tượng bồi tụ.
 Đáp án: A
 Giải thích: Hiện tượng uốn nếp là sự uốn cong các lớp đá do tác động của lực nén ép theo phương nằm ngang ở những vùng đá có độ dẻo cao.
-
+---
 Câu 16: Hiện tượng đứt gãy thường xảy ra ở những vùng đất đá có tính chất vật lí như thế nào khi chịu lực co giãn hoặc nén ép theo phương nằm ngang?
 A. Đất đá dẻo dai, mềm yếu.
 B. Đất đá cứng và giòn.
@@ -126,7 +126,7 @@ C. Đất đá bị hoà tan hoàn toàn trong nước.
 D. Đất sét ngấm nước nhiều.
 Đáp án: B
 Giải thích: Hiện tượng đứt gãy xảy ra khi lực nén ép hoặc tách giãn tác động vào những vùng đá cứng làm đất đá bị gãy vỡ, nứt nẻ và dịch chuyển.
-
+---
 Câu 17: Khi cường độ đứt gãy diễn ra mạnh mẽ, các khối đá bị đứt gãy có thể nhích lên hoặc sụt xuống tạo thành dạng địa hình nào?
 A. Địa luỹ và địa hào (như hẻm vực, thung lũng sụt nứt).
 B. Đồng bằng phù sa bằng phẳng.
@@ -134,7 +134,7 @@ C. Các đụn cát hoang mạc.
 D. Thảm thực vật đài nguyên.
 Đáp án: A
 Giải thích: Đứt gãy mạnh làm các khối đá dịch chuyển: bộ phận nhấc lên tạo thành địa luỹ (núi khối núi), bộ phận sụt xuống tạo thành địa hào (thung lũng, hồ kiến tạo).
-
+---
 Câu 18: Ngoại lực là lực được sinh ra ở đâu và do nguyên nhân chủ yếu nào?
 A. Sinh ra bên ngoài, trên bề mặt Trái Đất chủ yếu do nguồn năng lượng bức xạ Mặt Trời.
 B. Sinh ra từ nhân Trái Đất do phản ứng phân huỷ phóng xạ.
@@ -142,7 +142,7 @@ C. Sinh ra từ các trận động đất sâu trong lòng đất.
 D. Sinh ra do va chạm giữa các mảng kiến tạo.
 Đáp án: A
 Giải thích: Ngoại lực là lực diễn ra trên bề mặt Trái Đất, nguyên nhân chủ yếu do nguồn năng lượng bức xạ Mặt Trời.
-
+---
 Câu 19: Các tác nhân ngoại lực chủ yếu tham gia biến đổi địa hình bề mặt Trái Đất bao gồm những yếu tố nào?
 A. Khí áp, đất đá macma, sóng thần.
 B. Nhiệt độ, gió, mưa, nước chảy, sóng biển, băng hà, sinh vật và con người.
@@ -150,7 +150,7 @@ C. Lực ly tâm tự quay và lực hút Mặt Trăng.
 D. Dòng dung nham núi lửa và chấn động động đất.
 Đáp án: B
 Giải thích: Các tác nhân ngoại lực gồm khí hậu (nhiệt độ, gió, mưa), các dạng nước (nước chảy, sóng biển, băng hà), sinh vật và con người.
-
+---
 Câu 20: Tác động của ngoại lực đến địa hình bề mặt Trái Đất diễn ra qua 4 quá trình kế tiếp nhau theo thứ tự nào?
 A. Bóc mòn -> Phong hoá -> Bồi tụ -> Vận chuyển.
 B. Phong hoá -> Bóc mòn -> Vận chuyển -> Bồi tụ.
@@ -158,7 +158,7 @@ C. Vận chuyển -> Bồi tụ -> Phong hoá -> Bóc mòn.
 D. Bồi tụ -> Vận chuyển -> Bóc mòn -> Phong hoá.
 Đáp án: B
 Giải thích: Tác động ngoại lực diễn ra qua 4 quá trình liên quan chặt chẽ: Phong hoá -> Bóc mòn -> Vận chuyển -> Bồi tụ.
-
+---
 Câu 21: Quá trình phong hoá được hiểu là quá trình như thế nào?
 A. Quá trình phá huỷ và làm thay đổi đá, khoáng vật do tác động của nhiệt độ, nước, sinh vật...
 B. Quá trình di chuyển vật liệu từ nơi này đến nơi khác.
@@ -166,7 +166,7 @@ C. Quá trình tích tụ các vật liệu để tạo ra dạng địa hình m
 D. Quá trình nén ép làm uốn cong các lớp đá vỏ Trái Đất.
 Đáp án: A
 Giải thích: Phong hoá là quá trình phá huỷ và làm thay đổi đá, khoáng vật dưới tác động của sự thay đổi nhiệt độ, nước, oxy, sinh vật...
-
+---
 Câu 22: Hiện tượng đá bị nứt vỡ thành các vụn nhỏ do sự thay đổi nhiệt độ đột ngột giữa ngày và đêm là ví dụ của loại phong hoá nào?
 A. Phong hoá vật lí.
 B. Phong hoá hoá học.
@@ -174,7 +174,7 @@ C. Phong hoá sinh học.
 D. Phong hoá nhân tạo.
 Đáp án: A
 Giải thích: Phong hoá vật lí làm nứt vỡ đá thành các mảnh nhỏ mà không làm thay đổi thành phần hoá học của đá.
-
+---
 Câu 23: Sự hình thành các hang động Karst kỳ vĩ trong vùng núi đá vôi (như Phong Nha - Quảng Bình) là kết quả tiêu biểu của quá trình nào?
 A. Phong hoá hoá học (do nước hoà tan đá vôi).
 B. Phong hoá vật lí do gió thổi.
@@ -182,7 +182,7 @@ C. Vận động uốn nếp do nội lực.
 D. Quá trình bồi tụ phù sa sông.
 Đáp án: A
 Giải thích: Nước có chứa CO2 hoà tan đá vôi (CaCO3) tạo thành các hang động Karst là kết quả của quá trình phong hoá hoá học.
-
+---
 Câu 24: Quá trình bóc mòn do nước chảy trên bề mặt đất tạo nên các rãnh nông, khe rãnh và thung lũng sông được gọi là hình thức bóc mòn nào?
 A. Xâm thực.
 B. Mài mòn.
@@ -190,7 +190,7 @@ C. Thổi mòn.
 D. Lún sụt.
 Đáp án: A
 Giải thích: Bóc mòn do nước chảy tràn hoặc dòng chảy thường xuyên gọi là quá trình xâm thực.
-
+---
 Câu 25: Địa hình "nấm đá" hoặc các hố xoáy đá ở vùng hoang mạc khô hạn là sản phẩm bóc mòn do tác nhân nào gây ra?
 A. Gió thổi (thổi mòn và mài mòn do cát bay).
 B. Sóng biển đánh vào bờ.
@@ -198,7 +198,7 @@ C. Băng hà di chuyển.
 D. Nước ngầm hoà tan.
 Đáp án: A
 Giải thích: Ở hoang mạc, gió cuốn theo cát hạt cứng cọ xát vào chân các khối đá tạo ra dạng địa hình nấm đá (thổi mòn/mài mòn do gió).
-
+---
 Câu 26: Dạng địa hình đồng bằng châu thổ sông (như ĐBSH, ĐBSCL) được hình thành chủ yếu do quá trình ngoại lực nào?
 A. Quá trình bồi tụ phù sa do dòng nước chảy.
 B. Quá trình bóc mòn do sóng biển.
@@ -206,7 +206,7 @@ C. Quá trình phong hoá vật lí trên núi cao.
 D. Quá trình sụt nứt đứt gãy nội lực.
 Đáp án: A
 Giải thích: Đồng bằng châu thổ được hình thành do quá trình bồi tụ vật liệu phù sa lơ lửng của sông khi chảy ra vùng cửa biển chần sóng.
-
+---
 Câu 27: Các vành đai động đất và núi lửa trên Trái Đất thường phân bố ở những khu vực địa lí nào?
 A. Ở những vùng tiếp xúc (ranh giới) giữa các mảng kiến tạo.
 B. Ở trung tâm sâu trong nội địa của các mảng lục địa già.
@@ -214,7 +214,7 @@ C. Ở đáy các hồ nước ngọt trên lục địa.
 D. Phân bố đồng đều khắp bề mặt Trái Đất.
 Đáp án: A
 Giải thích: Vùng tiếp xúc giữa các mảng kiến tạo là nơi thạch quyển yếu, thường xuyên diễn ra hoạt động dồn ép/tách xa nên hình thành các vành đai động đất và núi lửa.
-
+---
 Câu 28: Vành đai động đất và núi lửa lớn nhất thế giới bao quanh đại dương nào sau đây?
 A. Vành đai lửa Thái Bình Dương.
 B. Vành đai Bắc Băng Dương.
@@ -222,7 +222,7 @@ C. Vành đai Ấn Độ Dương.
 D. Vành đai Nam Đại Dương.
 Đáp án: A
 Giải thích: Vành đai lửa Thái Bình Dương là vành đai động đất, núi lửa lớn nhất thế giới, chiếm hơn 75% số núi lửa hoạt động trên Trái Đất.
-
+---
 Câu 29: Xu hướng tác động chung giữa nội lực và ngoại lực đối với địa hình bề mặt Trái Đất có đặc điểm như thế nào?
 A. Nội lực làm bề mặt Trái Đất gồ ghề hơn, ngoại lực có xu hướng san bằng sự gồ ghề đó.
 B. Nội lực và ngoại lực cùng làm phẳng bề mặt Trái Đất.
@@ -230,7 +230,7 @@ C. Nội lực chỉ diễn ra ở đại dương, ngoại lực chỉ diễn ra
 D. Ngoại lực tạo nên các dãy núi cao, nội lực bào mòn thành đồng bằng.
 Đáp án: A
 Giải thích: Nội lực tạo ra sự gồ ghề (núi cao, vực sâu), còn ngoại lực phá huỷ, bóc mòn, bồi tụ có xu hướng san bằng bề mặt Trái Đất. Hai lực này xảy ra đồng thời và đối kháng nhau.
-
+---
 Câu 30: Một trận động đất mạnh 7,2 độ Richter xảy ra ngoài bờ biển Nhật Bản làm đứt gãy đáy biển và tạo ra một trận sóng thần cao 10m ập vào đất liền. Sự kiện này thể hiện sự tác động của lực nào?
 A. Tác động của nội lực (vận động kiến tạo mảng) dẫn đến hiểm họa tự nhiên.
 B. Tác động hoàn toàn của ngoại lực do gió bão.
@@ -321,11 +321,11 @@ Giải thích d: Sai, Việt Nam nằm trong mảng Âu - Á, mảng Na-xca và 
 Câu 1: Thạch quyển bao gồm vỏ Trái Đất và phần cứng mỏng phía trên của manti. Hỏi thạch quyển có độ dày trung bình khoảng bao nhiêu km?
 Đáp án: 100
 Giải thích: Thạch quyển có độ dày trung bình khoảng 100 km.
-
+---
 Câu 2: Tác động của ngoại lực đến địa hình bề mặt Trái Đất diễn ra qua mấy quá trình chính (kể từ phong hoá cho đến bồi tụ)?
 Đáp án: 4
 Giải thích: Diễn ra qua 4 quá trình: Phong hoá -> Bóc mòn -> Vận chuyển -> Bồi tụ.
-
+---
 Câu 3: Trong Chương 3 "Thạch quyển" của Sách giáo khoa Địa lí 10 (Bộ Kết nối tri thức với cuộc sống), bao gồm tất cả bao nhiêu bài học (kể từ Bài 6 đến Bài 8)?
 Đáp án: 3
 Giải thích: Chương 3 gồm 3 bài học: Bài 6 (Thạch quyển, thuyết kiến tạo mảng), Bài 7 (Nội lực và ngoại lực), Bài 8 (Thực hành: Sự phân bố các vành đai động đất, núi lửa).
