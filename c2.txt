@@ -6,7 +6,7 @@ C. Sự va chạm của hai ngôi sao khổng lồ.
 D. Khối vật chất nóng chảy phun ra từ lòng Mặt Trời.
 Đáp án: B
 Giải thích: Theo các giả thuyết khoa học, Trái Đất được hình thành từ sự ngưng tụ của đám mây bụi và khí chuyển động quay quanh Mặt Trời nguyên thủy.
-
+---
 Câu 2: Vỏ Trái Đất được cấu tạo bởi 3 lớp đá chính từ trên xuống dưới ở lục địa bao gồm những lớp nào?
 A. Lớp trầm tích, lớp granit và lớp badan.
 B. Lớp badan, lớp granit và lớp trầm tích.
@@ -14,7 +14,7 @@ C. Lớp trầm tích, lớp badan và lớp manti.
 D. Lớp granit, lớp manti và lớp nhân.
 Đáp án: A
 Giải thích: Vỏ lục địa được cấu tạo gồm 3 tầng đá chính: tầng trầm tích ở trên cùng, tầng granit ở giữa và tầng badan ở dưới cùng.
-
+---
 Câu 3: Điểm khác biệt cơ bản về cấu tạo giữa vỏ lục địa và vỏ đại dương là gì?
 A. Vỏ đại dương dày hơn vỏ lục địa và không có tầng trầm tích.
 B. Vỏ lục địa dày hơn và có tầng đá granit, còn vỏ đại dương không có hoặc rất mỏng tầng granit.
@@ -22,7 +22,7 @@ C. Vỏ đại dương được cấu tạo chủ yếu bởi đá granit nặng
 D. Vỏ lục địa chỉ được cấu tạo bởi các loại đá trầm tích nhẹ.
 Đáp án: B
 Giải thích: Vỏ lục địa dày hơn (35 - 70 km) và có tầng granit, trong khi vỏ đại dương mỏng hơn (5 - 10 km) và chủ yếu là tầng badan, không có hoặc rất mỏng tầng granit.
-
+---
 Câu 4: Ranh giới tự nhiên ngăn cách giữa vỏ Trái Đất và lớp manti bên dưới được gọi là gì?
 A. Bề mặt khúc xạ âm thanh.
 B. Mặt ranh giới Mohorovicic (mặt Mo-ho).
@@ -30,7 +30,7 @@ C. Tầng đối lưu khí quyển.
 D. Đường đẳng nhiệt địa chất.
 Đáp án: B
 Giải thích: Mặt Mo-ho (Mohorovicic) là mặt ranh giới phân cách giữa vỏ Trái Đất và lớp manti bên dưới.
-
+---
 Câu 5: Nhóm đá nào sau đây được hình thành do sự ngưng kết và nguội lạnh của khối macma nóng chảy trong lòng đất hoặc phun trào lên bề mặt?
 A. Đá trầm tích.
 B. Đá macma.
@@ -38,7 +38,7 @@ C. Đá biến chất.
 D. Đá phiến.
 Đáp án: B
 Giải thích: Đá macma (như đá granit, đá badan) hình thành từ quá trình kết tinh nguội lạnh của khoáng chất macma nóng chảy.
-
+---
 Câu 6: Loại đá nào sau đây thuộc nhóm đá trầm tích được hình thành do sự lắng tụ và nén chặt của các vụn đá hoặc xác sinh vật?
 A. Đá granit (đá hoa cương).
 B. Đá vôi và đá sa thạch.
@@ -46,7 +46,7 @@ C. Đá gơnai (đá biến chất).
 D. Đá badan (đá huyền vũ).
 Đáp án: B
 Giải thích: Đá vôi, đá sa thạch và đá sét là các loại đá trầm tích điển hình hình thành từ sự tích tụ vụn cơ học hoặc xác sinh vật.
-
+---
 Câu 7: Trái Đất tự quay quanh trục theo hướng nào sau đây?
 A. Từ Đông sang Tây.
 B. Từ Tây sang Đông.
@@ -54,7 +54,7 @@ C. Từ Bắc xuống Nam.
 D. Từ Nam lên Bắc.
 Đáp án: B
 Giải thích: Trái Đất tự quay quanh trục theo chiều từ Tây sang Đông (ngược chiều kim đồng hồ khi nhìn từ cực Bắc).
-
+---
 Câu 8: Trục Trái Đất nghiêng một góc bao nhiêu độ so với mặt phẳng quỹ đạo chuyển động quanh Mặt Trời?
 A. 23°27'.
 B. 66°33'.
@@ -62,7 +62,7 @@ C. 90°00'.
 D. 45°00'.
 Đáp án: B
 Giải thích: Trục Trái Đất luôn nghiêng một góc không đổi 66°33' so với mặt phẳng quỹ đạo (hoặc tạo với pháp tuyến mặt phẳng quỹ đạo một góc 23°27').
-
+---
 Câu 9: Nguyên nhân chính sinh ra hiện tượng ngày và đêm luân phiên liên tục trên bề mặt Trái Đất là gì?
 A. Do Trái Đất có hình cầu và tự quay quanh trục từ Tây sang Đông.
 B. Do Mặt Trời chuyển động quanh Trái Đất theo chu kì 24 giờ.
@@ -70,7 +70,7 @@ C. Do Trục Trái Đất thẳng đứng vuông góc với mặt phẳng quỹ 
 D. Do ảnh hưởng của sức hút từ Mặt Trăng.
 Đáp án: A
 Giải thích: Do Trái Đất có hình khối cầu nên Mặt Trời chỉ chiếu sáng được một nửa (ngày), nửa còn lại là đêm. Kết hợp với chuyển động tự quay quanh trục làm cho mọi nơi lần lượt trải qua ngày và đêm luân phiên.
-
+---
 Câu 10: Bề mặt Trái Đất được chia thành bao nhiêu múi giờ (khu vực giờ) chuẩn?
 A. 12 múi giờ.
 B. 24 múi giờ.
@@ -78,7 +78,7 @@ C. 36 múi giờ.
 D. 60 múi giờ.
 Đáp án: B
 Giải thích: Bề mặt Trái Đất có 360° kinh tuyến được chia thành 24 múi giờ, mỗi múi giờ rộng 15° kinh tuyến (tương ứng chênh lệch 1 giờ).
-
+---
 Câu 11: Múi giờ gốc (múi giờ số 0 hay giờ GMT) là múi giờ có đường kinh tuyến nào chạy qua chính giữa?
 A. Kinh tuyến 180°.
 B. Kinh tuyến gốc 0° (đi qua đài thiên văn Greenwich, Anh).
@@ -86,7 +86,7 @@ C. Kinh tuyến 105° Đông.
 D. Đường Xích đạo 0°.
 Đáp án: B
 Giải thích: Múi giờ số 0 lấy kinh tuyến gốc 0° đi qua đài thiên văn Greenwich (Anh) làm kinh tuyến trục.
-
+---
 Câu 12: Việt Nam nằm trong khu vực múi giờ thứ mấy theo giờ quốc tế GMT?
 A. Múi giờ số 5 (GMT+5).
 B. Múi giờ số 7 (GMT+7).
@@ -94,7 +94,7 @@ C. Múi giờ số 9 (GMT+9).
 D. Múi giờ số 0 (GMT+0).
 Đáp án: B
 Giải thích: Giờ chính thức của Việt Nam nằm ở múi giờ số 7 (GMT+7) với kinh tuyến trục 105°Đ.
-
+---
 Câu 13: Quy ước quốc tế chọn đường kinh tuyến nào đi qua giữa múi giờ số 12 ở Thái Bình Dương làm đường chuyển ngày quốc tế?
 A. Kinh tuyến gốc 0°.
 B. Kinh tuyến 180°.
@@ -102,7 +102,7 @@ C. Kinh tuyến 90° Tây.
 D. Kinh tuyến 120° Đông.
 Đáp án: B
 Giải thích: Kinh tuyến 180° đi qua giữa Thái Bình Dương được chọn làm đường chuyển ngày quốc tế.
-
+---
 Câu 14: Khi Tàu du lịch đi từ phía tây sang phía đông qua đường chuyển ngày quốc tế (kinh tuyến 180°), người ta phải làm gì đối với lịch ngày?
 A. Tăng thêm một ngày lịch.
 B. Lùi lại một ngày lịch.
@@ -110,7 +110,7 @@ C. Giữ nguyên không thay đổi.
 D. Tăng thêm hai ngày lịch.
 Đáp án: B
 Giải thích: Khi đi từ Tây sang Đông qua kinh tuyến 180° (từ bán cầu Đông sang bán cầu Tây) thì phải lùi lại 1 ngày lịch. Ngược lại khi đi từ Đông sang Tây thì tăng thêm 1 ngày lịch.
-
+---
 Câu 15: Trái Đất chuyển động quanh Mặt Trời theo một quỹ đạo có hình dạng gì?
 A. Hình tròn tuyệt đối.
 B. Hình elip gần tròn.
@@ -118,7 +118,7 @@ C. Hình parabol mở rộng.
 D. Hình dải ruy-băng xoắn.
 Đáp án: B
 Giải thích: Trái Đất chuyển động quanh Mặt Trời trên quỹ đạo hình elip gần tròn với Mặt Trời nằm ở một tiêu điểm.
-
+---
 Câu 16: Thời gian Trái Đất hoàn thành một vòng chuyển động quanh Mặt Trời là bao nhiêu?
 A. 24 giờ.
 B. 365 ngày và khoảng 6 giờ (một năm thiên văn).
@@ -126,7 +126,7 @@ C. 30 ngày.
 D. 100 ngày.
 Đáp án: B
 Giải thích: Một chu kì chuyển động của Trái Đất quanh Mặt Trời hết 365 ngày 5 giờ 48 phút 46 giây (khoảng 365 ngày 6 giờ).
-
+---
 Câu 17: Trong quá trình chuyển động quanh Mặt Trời, hướng nghiêng và độ nghiêng của trục Trái Đất có đặc điểm gì?
 A. Thay đổi liên tục theo từng tháng.
 B. Không đổi (luôn giữ nguyên độ nghiêng 66°33' và hướng về một phía - chuyển động tịnh tiến).
@@ -134,7 +134,7 @@ C. Trục đảo chiều 180 độ mỗi mùa hạ.
 D. Trục đứng vuông góc với quỹ đạo vào mùa đông.
 Đáp án: B
 Giải thích: Trong quá trình chuyển động quanh Mặt Trời, trục Trái Đất luôn nghiêng 66°33' so với mặt phẳng quỹ đạo và không đổi hướng (chuyển động tịnh tiến).
-
+---
 Câu 18: Vào ngày 21/3 (Xuân phân) và ngày 23/9 (Thu phân), tia sáng Mặt Trời chiếu vuông góc (thẳng đứng) vào vĩ tuyến nào?
 A. Chí tuyến Bắc (23°27'B).
 B. Xích đạo (0°).
@@ -142,7 +142,7 @@ C. Chí tuyến Nam (23°27'N).
 D. Vòng cực Bắc (66°33'B).
 Đáp án: B
 Giải thích: Vào hai ngày Xuân phân (21/3) và Thu phân (23/9), Mặt Trời chiếu thẳng góc vào Xích đạo, lúc này hai bán cầu nhận được lượng nhiệt và ánh sáng như nhau.
-
+---
 Câu 19: Vào ngày Hạ chí (22/6) ở Bán cầu Bắc, tia sáng Mặt Trời giữa trưa chiếu vuông góc tại vĩ tuyến nào?
 A. Xích đạo (0°).
 B. Chí tuyến Bắc (23°27'B).
@@ -150,7 +150,7 @@ C. Chí tuyến Nam (23°27'N).
 D. Cực Bắc (90°B).
 Đáp án: B
 Giải thích: Ngày 22/6 (Hạ chí), Bán cầu Bắc ngả về phía Mặt Trời nhiều nhất, tia sáng Mặt Trời chiếu vuông góc tại Chí tuyến Bắc (23°27'B).
-
+---
 Câu 20: Hiện tượng ngày dài hơn đêm ở Bán cầu Bắc diễn ra trong khoảng thời gian nào sau đây?
 A. Từ 21/3 đến 23/9 (mùa xuân và mùa hạ ở Bán cầu Bắc).
 B. Từ 23/9 đến 21/3 năm sau.
@@ -158,7 +158,7 @@ C. Từ 22/12 đến 21/3.
 D. Chỉ duy nhất trong tháng 12.
 Đáp án: A
 Giải thích: Từ 21/3 đến 23/9, Bán cầu Bắc ngả về phía Mặt Trời nên nhận được nhiều ánh sáng, thời gian ngày dài hơn đêm.
-
+---
 Câu 21: Tại vùng Xích đạo (vĩ độ 0°), hiện tượng ngày và đêm có đặc điểm gì quanh năm?
 A. Ngày dài 18 giờ, đêm dài 6 giờ.
 B. Luôn luôn có ngày dài bằng đêm (mỗi bên 12 giờ).
@@ -166,7 +166,7 @@ C. Đêm dài hơn ngày vào mùa đông.
 D. Có 6 tháng ngày và 6 tháng đêm.
 Đáp án: B
 Giải thích: Ở Xích đạo, đường phân chia sáng tối luôn cắt Xích đạo thành hai phần bằng nhau nên quanh năm có ngày dài bằng đêm (12 giờ ngày, 12 giờ đêm).
-
+---
 Câu 22: Càng đi về phía hai cực (từ Xích đạo về cực), độ chênh lệch giữa độ dài ngày và độ dài đêm thay đổi như thế nào?
 A. Càng giảm dần.
 B. Càng tăng dần.
@@ -174,7 +174,7 @@ C. Không thay đổi.
 D. Bằng 0 ở mọi nơi.
 Đáp án: B
 Giải thích: Càng xa Xích đạo về phía hai cực, độ chênh lệch thời gian giữa ngày và đêm càng tăng lên. Tại hai cực có hiện tượng 6 tháng ngày, 6 tháng đêm.
-
+---
 Câu 23: Nguyên nhân cốt lõi sinh ra hiện tượng các mùa trong năm trên Trái Đất là gì?
 A. Do khoảng cách từ Trái Đất đến Mặt Trời thay đổi quá lớn.
 B. Do trục Trái Đất nghiêng không đổi khi chuyển động quanh Mặt Trời làm từng bán cầu luân phiên ngả về phía Mặt Trời.
@@ -182,7 +182,7 @@ C. Do sự thay đổi vận tốc tự quay quanh trục của Trái Đất.
 D. Do sự xuất hiện của bão Mặt Trời theo chu kì.
 Đáp án: B
 Giải thích: Trục Trái Đất nghiêng 66°33' không đổi hướng khi quay quanh Mặt Trời làm cho Bán cầu Bắc và Bán cầu Nam luân phiên ngả về phía Mặt Trời, nhận lượng nhiệt khác nhau sinh ra các mùa.
-
+---
 Câu 24: Khi Bán cầu Bắc đang là mùa hạ thì ở Bán cầu Nam đang là mùa gì?
 A. Mùa hạ.
 B. Mùa đông.
@@ -190,7 +190,7 @@ C. Mùa xuân.
 D. Mùa thu.
 Đáp án: B
 Giải thích: Mùa ở hai bán cầu luôn trái ngược nhau. Khi Bán cầu Bắc ngả về phía Mặt Trời (mùa hạ) thì Bán cầu Nam chếch xa Mặt Trời (mùa đông).
-
+---
 Câu 25: Người ta chia một năm thành 4 mùa (Xuân, Hạ, Thu, Đông) thể hiện rõ đặc đặc trưng nhất ở vùng đới khí hậu nào?
 A. Vùng nhiệt đới (xung quanh Xích đạo).
 B. Vùng ôn đới (trung bình giữa Xích đạo và Cực).
@@ -198,7 +198,7 @@ C. Vùng hàn đới (xung quanh hai cực).
 D. Trên toàn bộ Trái Đất như nhau.
 Đáp án: B
 Giải thích: Vùng ôn đới nằm ở vĩ độ trung bình có sự thay đổi rõ rệt nhất về góc chiếu và thời gian chiếu sáng trong năm nên thể hiện rõ 4 mùa Xuân, Hạ, Thu, Đông.
-
+---
 Câu 26: Một trận bóng đá diễn ra tại Luân Đôn (múi giờ số 0) lúc 15 giờ ngày 15/10. Hỏi lúc đó tại Hà Nội (múi giờ số 7) là mấy giờ?
 A. 8 giờ ngày 15/10.
 B. 22 giờ ngày 15/10.
@@ -206,7 +206,7 @@ C. 22 giờ ngày 16/10.
 D. 15 giờ ngày 15/10.
 Đáp án: B
 Giải thích: Hà Nội (GMT+7) nhanh hơn Luân Đôn (GMT+0) 7 giờ. Lúc Luân Đôn 15 giờ thì Hà Nội là: 15 + 7 = 22 giờ cùng ngày 15/10.
-
+---
 Câu 27: Hiện tượng "Đêm trắng" (ngày kéo dài gần như suốt 24 giờ vào mùa hạ) thường xuất hiện ở các thành phố thuộc khu vực vĩ độ nào?
 A. Xích đạo (như Singapore).
 B. Vùng cận cực vĩ độ cao (như thành phố Xanh Pê-téc-bua, Nga).
@@ -214,7 +214,7 @@ C. Chí tuyến Nam (như Úc).
 D. Vùng nhiệt đới ẩm gió mùa.
 Đáp án: B
 Giải thích: Ở các khu vực vĩ độ cao gần vòng cực (như Xanh Pê-téc-bua ~60°B), vào mùa hạ mặt trời lặn rất muộn và hửng sáng rất sớm tạo nên hiện tượng đêm trắng.
-
+---
 Câu 28: Câu tục ngữ Việt Nam: "Đêm tháng năm chưa nằm đã sáng / Ngày tháng mười chưa cười đã tối" giải thích cho hiện tượng địa lí nào?
 A. Sự biến đổi khí áp theo mùa.
 B. Hiện tượng ngày đêm dài ngắn khác nhau theo mùa ở Bán cầu Bắc.
@@ -222,7 +222,7 @@ C. Hiện tượng triều cường và triều kém.
 D. Tác động của gió mùa Tây Nam.
 Đáp án: B
 Giải thích: Tháng 5 âm lịch (mùa hạ ở Bán cầu Bắc) có ngày dài đêm ngắn ("chưa nằm đã sáng"). Tháng 10 âm lịch (mùa đông ở Bán cầu Bắc) có ngày ngắn đêm dài ("chưa cười đã tối").
-
+---
 Câu 29: Loại đá biến chất được hình thành từ sự biến đổi dưới nhiệt độ và áp suất cao của đá vôi là loại đá nào?
 A. Đá gơnai.
 B. Đá hoa (đá mable).
@@ -230,7 +230,7 @@ C. Đá phiến sét.
 D. Đá đunít.
 Đáp án: B
 Giải thích: Đá vôi dưới tác động của nhiệt độ và áp suất cao trong lòng đất bị biến chất thành đá hoa (đá mable).
-
+---
 Câu 30: Trái Đất có bán kính ở Xích đạo khoảng 6.378 km và khối lượng khoảng 6x10^24 kg. Lớp vỏ Trái Đất chỉ chiếm khoảng bao nhiêu % thể tích toàn bộ Trái Đất?
 A. Khoảng 1% thể tích.
 B. Khoảng 15% thể tích.
