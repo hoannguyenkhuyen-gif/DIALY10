@@ -321,11 +321,11 @@ Giải thích d: Đúng, trên thực tế đường chuyển ngày được đi
 Câu 1: Bề mặt Trái Đất có tổng cộng 360 độ kinh tuyến được chia đều thành 24 múi giờ chuẩn. Hỏi mỗi múi giờ rộng bao nhiêu độ kinh tuyến?
 Đáp án: 15
 Giải thích: Phạm vi độ rộng mỗi múi giờ = 360° / 24 = 15° kinh tuyến.
-
+---
 Câu 2: Trục Trái Đất luôn giữ nguyên độ nghiêng không đổi khi chuyển động quanh Mặt Trời. Hỏi góc tạo bởi trục Trái Đất và mặt phẳng quỹ đạo là bao nhiêu độ (chỉ điền số nguyên hoặc số kèm phút độ, ví dụ 66.5 hoặc 66°33')?
 Đáp án: 66°33'
 Giải thích: Trục Trái Đất nghiêng một góc 66°33' so với mặt phẳng quỹ đạo.
-
+---
 Câu 3: Trong Chương 2 "Trái Đất" của Sách giáo khoa Địa lí 10 (Bộ Kết nối tri thức với cuộc sống), bao gồm tất cả bao nhiêu bài học (kể từ Bài 4 đến Bài 5)?
 Đáp án: 2
 Giải thích: Chương 2 gồm 2 bài học: Bài 4 (Sự hình thành Trái Đất, vỏ Trái Đất và vật liệu cấu tạo vỏ Trái Đất) và Bài 5 (Hệ quả địa lí các chuyển động của Trái Đất).
